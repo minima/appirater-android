@@ -38,3 +38,7 @@ log*.txt
 *.idea
 *.iml
 out/
+
+# gradle
+.gradle/
+build/
